@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Class X HSLC Exam Physics Questions (2010 - 2026)"
+title: "Physics Question Bank (2010 - 2026 HSLCE)"
 date: 2026-02-08
 categories: [physics, exam-prep, class-x]
 tags: [HSLC, physics, questions, electricity, magnetism, light, energy]
