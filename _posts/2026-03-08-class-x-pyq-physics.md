@@ -1,0 +1,243 @@
+---
+layout: post
+title: Class X Physics Questions Bank
+---
+
+## ELECTRICITY
+
+### 1 Mark Questions
+1. Define potential difference between two points in an electric circuit. [2011]
+2. 360 C of electric charge flows through a conductor in 15 min at a uniform rate. Find the current in amperes. [2011]
+3. A cell or a battery is always connected to an electric circuit. Give reasons. [2012]
+4. Why is a battery or a cell always included in an electric circuit? [2013]
+5. Why are the household electrical appliances connected in parallel to the main? Give one reason. [2014]
+6. Define electric power. [2015]
+7. Find the resistance of a bulb which is marked as 220V - 100W. [2016]
+8. Define one volt. [2017]
+9. You are provided a resistor, a voltmeter, a battery and a key. Draw an electric circuit using the given components, that may be used to measure the potential difference across the resistor. [2019]
+10. What is the SI unit electrical resistivity? [2020]
+11. What is a positive ion? [2022]
+12. You are provided a resistor, a voltmeter, a battery and a key. Draw an electric circuit using the given components, that may be used to measure the potential difference across the resistor. [2023]
+13. What is the commercial unit of electrical energy? [2024]
+14. State Ohm's law. [2025]
+
+### 2 Mark Questions
+1. An electric bulb is rated 220V - 100W. Find the resistance of the filament. [2010]
+2. Define potential difference between two points in an electric circuit. In household electric circuits, parallel combination [of electrical devices] is preferred. Give two arguments in support. [2011]
+3. Electrical resistivity of nichrome is $100 \times 10^{-6}$ $\Omega$m. Calculate the resistance of a nichrome wire 110 cm long and 0.5 mm diameter. [2011]
+4. State the factor on which the resistance of a conductor depends. [2013]
+5. What produces an electric current in a circuit? How is it realised? [2014]
+6. Draw a series circuit diagram used by symbols containing the following electrical components: A battery, (b) an electric bulb, (c) an open switch and (d) a rheostat. [2015]
+7. A 1.0 m long wire has 1mm diameter and resistance of 7$\Omega$. Calculate the resistivity of the material. [2017]
+8. Connected wires used in electric heater are thicker than used in electric bulb. Why? [2018]
+9. A wire of 7$\Omega$/m is turned in the form of a circle of diameter 2m. Find the resistance across the ends of the diameter. [2019]
+10. A piece of nichrome wire of resistance R is cut into four equal parts. These parts are then combined in parallel. If R′ is the equivalent resistance of the parallel combination, find the ratio of R/R′. [2020]
+11. How does the use of fuse wire protect electric appliances? [2022]
+12. In the circuit shown below, assume R₁ = 3.5 $\Omega$, R₂ = 1$\Omega$, and R₃ = 1 $\Omega$. The battery in the circuit has a potential difference of 12 V. Calculate the current travels through resistor R₃ and potential difference across this resistor. [2022]
+13. Two incandescent bulbs of 50W are connected in series to a voltage source. In another circuit two such bulbs are connected in parallel to the same source. Will the bulbs in the two circuit glow with same brightness? Justify your answer. [2023]
+14. A resistance of 10 ohm is connected in series to an electric bulb of 20 ohm. The combination is connected to a battery of 6 V. Calculate the p.d. across the bulb. [2024]
+
+### 3 Mark Questions
+1. What are the factors on which the resistance of a metallic conductor depends? Derive an expression of the resistance based on these factors. [2010]
+2. A 9$\Omega$ resistor is to be combined with two other resistors of 3$\Omega$ and 6$\Omega$ to get resistance of 11$\Omega$. How shall they be combined? Explain how you arrive at your answer. [2010]
+3. How many resistor of 110$\Omega$ each are required in parallel combination so as to carry 6A on 220V supply line? [2013]
+4. An electric bulb is rated 220V : 100W. The bulb is used at 110V. Find the power so consumed. [2014]
+5. Obtain the relation of electrical resistivity of a conductor. [2015]
+6. Find the effective value of resistance between A and B of the given circuit. When a) Switch S is open, b) Switch S is closed. [2017]
+7. Two resistances are in the ratio 1 : 2. If these are connected in parallel, their equivalent resistance becomes 8$\Omega$. Calculate the value of resistance. [2018]
+8. An electric heater marked 1200 W operates 3 hours / day in a house. What will be the cost of energy to operate it for 5 days at Rs. 2 per unit of energy? [2019]
+9. A potential difference of 250 V is applied across an electric iron having resistance 500$\Omega$. Calculate (i) the current through the resistor (heating element), (ii) power of electric iron, 3) heat energy produced in joule in 30 sec. [2020]
+10. Deduce the relation of electrical resistivity of the material of a conductor. [2022]
+11. An electric Iron has a rating of 1000W, 220V. It is used for 5 hours daily. Calculate i) its resistance while glowing, ii) energy consumed in KWH if it is used for two days. [2023]
+12. Derive an expression for the heat produced in a conductor of resistance 'R' when current 'I' flows through it for time 't'. [2024]
+
+### 5 Mark Questions
+1. State Ohm's law and from it, define the resistance of a conductor. A current 'I' amp is allowed to pass through a resistor of resistance 'R' ohms for 't' seconds. Calculate the amount of heat generated in the resistor in Joules. [2012]
+2. Define resistance of wire. Write the expression for equivalent resistances of two resistors, R₁ and R₂ when they are connected in parallel and in series. In which case do you get an equivalent resistance less than the given resistance? Write the unit of resistivity. [2016]
+3. Obtain an expression for the equivalent resistance of three resistors with resistances R₁, R₂ and R₃ connected in parallel. Find the equivalent resistance between A and B for the given electrical network shown below. [2025]  
+   OR  
+   Obtain the expression for the electrical resistivity of a conductor. Calculate the resistance of 1 km long copper wire of radius 1 mm (Resistivity of copper is $1.72 \times 10^{-8}$ $\Omega$ m). [2025]
+
+## MAGNETISM
+
+### 1 Mark Questions
+1. State the function of an electric motor. [2013]
+2. When a magnet is brought close to a compass needle, the needle deflects. Give reasons. [2013]
+3. A small magnetic compass needle is held close above a straight horizontal wire carrying current towards the south. How the N-pole will deflect? [2014]
+4. When will the force on a current carrying conductor be maximum in a magnetic field? [2014]
+5. Why does the bulk of iron filings stick to the ends of a bar magnet and not its centre? [2015]
+6. What is an electric motor? [2015]
+7. Magnetic lines of force of two bar magnets are shown as follows. Name the poles of the magnet facing each other. [2018]
+8. What is the role of brushes in an electric motor? [2018]
+9. What is the directive property of a magnet? [2020]
+10. How can a solenoid be converted into an electromagnet? [2020]
+11. A wire carrying current is shown in the figure. What is the direction of magnetic field at point P? [2023]
+12. Magnetic field inside a solenoid is same at all points. Why? [2023]
+13. The magnetic field lines inside a current carrying solenoid are equidistant parallel lines. What does it indicate? [2024]
+
+### 2 Mark Questions
+1. Give two properties of magnetic lines of force. [2011]
+2. What will happen when a current carrying conductor is placed in a magnetic field? [2012]
+3. Distinguish between a current carrying solenoid and a bar magnet by giving two points. [2016]
+4. State Fleming's Left Hand Rule. [2017]
+5. State Fleming's left hand rule. [2022]
+6. Give two advantages of an electromagnet over a permanent magnet. [2022]
+7. Draw magnetic field lines around a bar magnet. [2024]
+8. State Right Hand Thumb Rule. [2024]
+9. A steady current flows through a horizontal wire from east to west direction. What is the direction of magnetic field at points directly below and at points directly above it? [2025]
+
+### 3 Mark Questions
+1. A current carrying solenoid can be compared to a bar magnet. Give any two corresponding points. The field lines inside a solenoid are parallel. What can be said about the nature of the field there? [2011]
+2. State the factors on which the strength of the magnetic field of a solenoid depends. The magnetic line of forces inside a solenoid are in the form of a parallel straight line. What does it indicate about the nature of the field inside? [2012]
+3. What is a solenoid? State the factors on which the magnetic field inside the solenoid depend. [2013]
+4. Draw sketches to show the magnetic lines of force produced by a) a bar magnet and b) a current carrying solenoid. State one point of similarity between the two. [2014]
+5. State three advantages of an electromagnet over a permanent magnet. [2015]
+6. If current flows along a horizontal conductor in west to east direction, show the direction of magnetic field at points (i) directly above (ii) directly below and (iii) directly north of it. [2016]
+7. Write three properties of magnetic lines of force. [2017]
+8. State three advantages of an electromagnet over a permanent magnet. [2018]
+9. Two magnetic field lines never intersect each other. Explain it. [2020]
+10. How do you draw the magnetic field around a bar magnet? [2022]
+11. If current flows along a horizontal conductor in west to east direction, show the direction of magnetic field at points a) directly above b) directly below and c) directly north of it. [2023]
+12. Write any three properties of magnetic field lines. [2025]
+
+### 5 Mark Questions
+1. Draw an illustrative diagram of an electric motor. Describe its construction and working. [2010]
+2. Describe the working of an electric motor by indicating the roles played by different parts used to construct the same. [2019]
+
+## ELECTROMAGNETIC INDUCTION
+
+### 1 Mark Questions
+1. How does an AC generator differ from a DC generator in construction? [2010]
+2. What is electromagnetic induction? [2012]
+3. Electric fuse is made of a low melting point wire. Explain why. [2012]
+4. Differentiate between Hydel power plant and Nuclear power plant. [2016]
+5. What is electromagnetic induction? [2017]
+6. Electric energy from a long distance power station is transmitted at high voltage. Why? [2017]
+7. What is electromagnetic induction? [2019]
+8. State Fleming's right hand rule. [2019]
+9. What is electromagnetic induction? [2022]
+10. Name two devices which work on the principle of electromagnetic induction. [2022]
+
+### 2 Mark Questions
+1. Draw and labelled an AC generator. [2013]
+2. Metallic appliances must be connected to earth wire. Why? [2015]
+3. How is a fuse wire different from a copper wire? [2016]
+4. Draw a neat labelled diagram of a DC generator. [2016]
+5. Why is long distance power transmission done at high voltage? [2023]
+6. A fuse is rated 8A. Predict by calculation and state whether the fuse can be used safely for the proper working of an electric appliance of 5 kW, 200V. [2024]
+7. Name any two devices in which the principle of electromagnetic induction is used. [2025]
+
+### 3 Mark Questions
+1. State the three results of Faraday's experiment on electromagnetic induction. [2010]
+2. Explain how electricity is produced in a thermal plant. [2012]
+3. In what respect an AC generator differs from a DC generator? [2013]
+4. What are the advantages of AC over DC? Give three points. [2015]
+5. Mention three factors for increasing the electric current produced from an electric generator. [2017]
+6. Mention three advantages of A.C over D.C. [2019]
+7. State Faraday's laws of electromagnetic induction. [2022]
+8. Give three advantages of connecting electrical appliances in parallel. [2023]
+9. State Faraday's laws of electromagnetic induction. [2024]
+10. Explain the nature of time variation of e.m.f generated during a complete rotation of the coil in an AC generator. [2025]
+
+### 5 Mark Questions
+1. Draw a diagram to show the important parts of an AC generator. Describe briefly the construction and the working of the same. [2011]
+2. Give the precautions to be taken in handling electrical circuits to avoid the hazards of electricity. (Give five different points) [2014]
+3. Draw a schematic diagram of an AC generator with the help of this diagram and explain the construction of it. [2018]
+4. Explain with diagram, the working of an AC generator. [2020]
+
+## LIGHT
+
+### 1 Mark Questions
+1. Define the principal focus of a spherical mirror. [2010]
+2. Why is the sun visible a few minutes before actual sunrise? [2011]
+3. Red light is generally used in danger signal. Give reasons. [2012]
+4. A person suffering from Myopia cannot see far off objects clearly. Give reasons. [2013]
+5. An object is held in front of a plane mirror and its image is seen. If the mirror is moved 20 cm towards the object, how far will its image move? [2014]
+6. Why does light falling normally on a reflecting surface retrace? [2015]
+7. What is astigmatism? [2016]
+8. Red colour is used in the danger signals. Give reason. [2017]
+9. Draw a ray diagram to show the position of the image formed when the object is placed at infinity from a convex lens. [2018]
+10. Draw a ray diagram of formation of image for an object placed in front of a convex mirror. [2019]
+11. What happens to the image distance in the eye when we increase the distance of the object from the eye? [2023]
+12. What is presbyopia? [2024]
+13. What is critical angle? [2025]
+
+### 2 Mark Questions
+1. A convex mirror is often used as the back viewer of a motor vehicle. Give two reasons. [2010]
+2. A person sitting by the side of a pond of water sees a fish lying at the bottom. It appears to be at a depth of 75 cm below the water surface. Find the actual depth of pond water. Refractive index of water is 1.33. [2010]
+3. The real image formed by a convex lens of focal length 20 cm is magnified four times. Find the position of the object. [2011]
+4. Draw a neat ray diagram showing the formation of the image of an object placed between the principal focus and centre of curvature of a convex lens. [2012]
+5. An object 3 cm high is placed at a distance of 30 cm in front of a concave mirror of radius of curvature 50 cm. Find the position and size of the image formed. [2014]
+6. Medium 1 and medium 2 have absolute refractive index $\eta_1$ and $\eta_2$ respectively. Prove that $\eta_{21}= \eta_2 / \eta_1$. [2016]
+7. Why does dispersion of light occur in a prism but not in a rectangular glass slab? [2018]
+8. Explain giving reason why the sky appears blue to an observer from the surface of the earth. [2019]
+9. What is myopia? What are the factors which cause this defect? [2020]
+10. In the cold polar region, an object is seen hanging in the sky. Justify by giving reason. [2020]
+11. Draw the diagram of the image of a point object placed at the bottom surface of a vessel containing water. [2020]
+12. Why does the sky appear dark instead of blue to an astronaut? Give reason. [2023]
+13. Draw a neat labelled ray diagram showing the formation of virtual image by a concave mirror. [2025]
+
+### 3 Mark Questions
+1. A concave mirror of focal length 30 cm forms an image magnified 3 times. Find the possible positions of the object. [2010]
+2. Draw a ray diagram to show the formation of an image of an object (of finite size) by a concave mirror when the object is at some distance beyond its centre of curvature. Where and how big is the image. [2011]
+3. An object 2.5 cm high is placed at the distance of 10 cm in front of a convex lens of focal length 15cm. Find the position, nature and size of the image. [2012]
+4. Describe the nature, cause and method of correction of hypermetropia. [2014]
+5. Find the position, magnification and nature of an image formed when a 2 cm high object is placed at a distance of 15 cm in front of a convex mirror of focal length 10cm. [2016]
+6. A concave mirror produces a three times enlarged real image of an object placed 10cm in front of it. Calculate the radius of curvature of the mirror. [2018]
+7. What is critical angle? State the conditions of total internal reflection of light. [2019]
+8. Refractive index of water with respect to air is 1.33 and that of diamond is 2.42.  
+   Of the given two media, state the medium where light travel faster.  
+   Find the refractive index of diamond with respect to water. [2025]
+
+### 5 Mark Questions
+1. Define the refractive index of a medium. Deduce the expression,  
+   $\eta_{\text{water}} = \frac{\text{Real depth}}{\text{Apparent depth}}$  
+   Calculate the power of a convex lens of focal length 75cm. [2013]
+2. State the laws of refraction of light. A 10 cm tall object is placed at the principal focus of a concave lens of focal length 20 cm. Find the position, size and nature of the image. [2015]
+3. A student cannot see the map clearly hanging on a wall placed at a distance less than 40cm from him.  
+   a) Name the defect of vision  
+   b) Give two reasons for this defect  
+   c) Draw the ray diagrams for the defect of vision and for its correction. [2017] [2023]
+4. What is meant by an optically denser medium? An object 7 cm high is placed at a distance of 27 cm in front of a concave mirror of focal length 18 cm. At what distance from the mirror should a screen be placed so that a sharply focused image can be obtained? Find the size and nature of the image. Draw the ray diagram to show the formation of the image in this case. [2022]  
+   OR  
+   An object 5 cm high is placed 25 cm away from a convex lens of focal length 10 cm. Find the position, size and the nature of the image formed. Draw a ray diagram to show the image formation in this case. [2022]
+5. An object 4 cm high is placed at a distance of 20 cm in front of a concave mirror of radius of curvature 60 cm. Find the position, nature and size of the image. [2024]  
+   OR  
+   An object is placed at a distance of 10 cm from a convex lens of focal length 15 cm. Find the position, nature and magnification of the image. [2024]
+
+## SOURCES OF ENERGY
+
+### 1 Mark Questions
+1. What does biomass mean? [2010]
+2. In remote unelectrified places of Manipur, what appliance may be conveniently used to get electricity for domestic lighting? [2010]
+3. Define solar constant at a place. [2011]
+4. Give one example of fossil fuel. [2016]
+5. Differentiate between the sun and fossil fuels as direct sources of energy. [2020]
+6. Name two types of energy released by the sun. [2024]
+7. How is biogas formed? [2025]
+8. Write one possible consequence on large scale use of nuclear energy. [2025]
+
+### 2 Mark Questions
+1. Give any two points to be taken into account while selecting a fuel to be the source of energy. [2012]
+2. The energy released during nuclear reaction is large, but it cannot be used in large scale. Give any two reasons. [2012]
+3. Explain how electricity is produced by using sunlight. [2013]
+4. Nuclear energy cannot be used in large scale for production of energy. Give reasons. [2013]
+5. State four characteristics of a good fuel. [2014]
+6. Name a source of energy often used for production of electricity and which is also environment friendly. Why is it taken to be environment friendly? [2014]
+7. How can we use geothermal energy? [2015]
+8. Mention the problems for construction of big dams. (Give two) [2015]
+9. "Burning of fossil fuels is a cause of global warming." Justify this statement. [2017]
+10. Briefly explain the energy released in nuclear fission process. [2017]
+11. Mention two disadvantages of burning of fossil fuels. [2018]
+12. What is meant by solar constant? Give its value. [2018]
+13. What are two merits of using wind energy? [2019]
+14. Give any four characteristics of a good source of energy. [2019]
+15. What is meant by solar constant? Give its value. [2023]
+16. Explain the sequence of energy transformation in the generation of electricity in a hydroelectric power plant. [2025]
+
+### 3 Mark Questions
+1. Name the type of collector used in concentrating solar cookers. Draw a diagram to show its action. State one merit of its type. [2010]
+2. Name two non-conventional sources of energy. Name the forms of energy possessed by them used to get electricity. Name the devices used for the same. [2011]
+3. How is the use of non-conventional sources of energy advantageous over the use of conventional sources of energy? Give three points. [2016]
+4. Give any three limitations in harnessing wind energy. [2020]
+5. Write three advantages of Biogas Plant. [2024]
