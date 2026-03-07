@@ -6,6 +6,5 @@ layout: post
 There are dates you look forward to, and then there are dates that redefine your entire existence. For me, that date is today.
 
 ![Francis at RIMS](/images/107401.jpg)
-*Holding my firstborn for the first time*
 
 Today, at the Regional Institute of Medical Sciences, I finally got to see my firstborn son...
