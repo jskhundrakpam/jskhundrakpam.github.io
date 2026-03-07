@@ -364,3 +364,30 @@ footer a:hover {
 // Syntax highlighting and icons – keep at bottom
 @import "highlights";
 @import "svg-icons"; 
+
+/* ========== MOBILE IMAGE & LOGO FIXES ========== */
+@media (max-width: 600px) {
+  /* Smaller, centered logo */
+  .site-avatar {
+    width: 50px !important;
+    height: 50px !important;
+    margin: 0 auto 15px !important;
+    float: none !important;
+    display: block !important;
+  }
+  .site-avatar img {
+    width: 100%;
+    height: auto;
+    object-fit: cover; /* keeps image from stretching */
+  }
+
+  /* Force blog post images to fit the screen */
+  .post-content img {
+    max-width: 100% !important;
+    height: auto !important;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
+  }
+}
