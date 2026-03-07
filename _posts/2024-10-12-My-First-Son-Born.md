@@ -1,10 +1,11 @@
 ---
+title: "The Day I Met My Son: 12th October 2024"
 layout: post
-title: "He’s Here: Welcome to the World, Francis"
 ---
 
-**12th October 2024.**
+There are dates you look forward to, and then there are dates that redefine your entire existence. For me, that date is today.
 
-Today, I held my firstborn son, *Francis* for the first time.
+![Francis at RIMS](/images/107401.jpg)
+*Holding my firstborn for the first time*
 
-Seeing him here, at the Regional Institute of Medical Sciences (RIMS), is a moment I will never forget.
+Today, at the Regional Institute of Medical Sciences, I finally got to see my firstborn son...
