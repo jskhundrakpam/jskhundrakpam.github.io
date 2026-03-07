@@ -395,3 +395,68 @@ footer a {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+/* ========== EXTRA MOBILE FRIENDLINESS ========== */
+
+@media (max-width: 600px) {
+  /* Increase touch targets */
+  nav a {
+    padding: 8px 0;
+    display: inline-block;
+    margin: 0 8px;
+  }
+  
+  .read-more {
+    padding: 10px 0;
+  }
+  
+  /* Better readability */
+  body {
+    font-size: 16px; /* prevents zoom on inputs */
+  }
+  
+  .post-content {
+    font-size: 1.05rem;
+    word-wrap: break-word;
+  }
+  
+  /* Prevent horizontal scroll */
+  pre {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+  }
+  
+  /* Tables scroll horizontally */
+  .post-content table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+  
+  /* More space for code blocks */
+  code {
+    white-space: normal;
+  }
+  
+  /* Adjust spacing */
+  .post blockquote {
+    margin: 1.5rem 0;
+    padding: 1rem 1.2rem;
+  }
+  
+  .site-name {
+    font-size: 1.6rem;
+  }
+  
+  .post-title {
+    font-size: 1.5rem;
+    margin-bottom: 5px;
+  }
+  
+  /* Footer links spacing */
+  footer a {
+    display: inline-block;
+    margin: 0 5px;
+    padding: 5px;
+  }
+}
