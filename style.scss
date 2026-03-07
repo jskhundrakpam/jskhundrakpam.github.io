@@ -287,3 +287,100 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+/* ========== BEAUTIFY ADDITIONS ========== */
+
+/* Slight background tint */
+body {
+  background: #fafafa; /* very light grey */
+}
+
+/* Better readability for post content */
+.post-content {
+  font-size: 1.1rem;
+  line-height: 1.8;
+}
+
+/* Links inside posts get a subtle underline */
+.post-content a {
+  color: $blue;
+  border-bottom: 1px dotted $blue;
+}
+.post-content a:hover {
+  color: darken($blue, 10%);
+  border-bottom: 1px solid darken($blue, 10%);
+}
+
+/* Nicer blockquotes */
+.post blockquote {
+  background: $lightGray;
+  border-left: 4px solid $blue;
+  padding: 0.5em 1em;
+  font-style: italic;
+  border-radius: 0 4px 4px 0;
+}
+
+/* Code blocks */
+pre {
+  background: #2d2d2d;
+  color: #f8f8f2;
+  border-radius: 6px;
+  padding: 1em;
+  overflow-x: auto;
+}
+code {
+  background: $lightGray;
+  padding: 0.2em 0.4em;
+  border-radius: 3px;
+  font-size: 0.9em;
+}
+
+/* Header border & shadow */
+.masthead {
+  border-bottom: 2px solid $lightGray;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+/* Slightly bolder site name */
+.site-name {
+  font-weight: 400;
+  letter-spacing: 0.5px;
+}
+
+/* Navigation hover effect */
+nav a {
+  font-weight: 400;
+  transition: color 0.2s ease;
+}
+nav a:hover {
+  color: $blue;
+}
+
+/* Post titles with a colored left border */
+.post-title {
+  font-size: 2.2rem;
+  margin-top: 0;
+  border-left: 4px solid $blue;
+  padding-left: 15px;
+}
+
+/* Footer styling */
+footer {
+  font-size: 0.9rem;
+  color: $gray;
+}
+footer a {
+  color: $blue;
+}
+
+/* Mobile adjustments */
+@media (max-width: 600px) {
+  .post-title {
+    font-size: 1.8rem;
+    border-left-width: 3px;
+    padding-left: 10px;
+  }
+  .post-content {
+    font-size: 1rem;
+  }
+}
