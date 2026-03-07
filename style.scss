@@ -384,3 +384,8 @@ footer a {
     font-size: 1rem;
   }
 }
+
+/* Make avatar round */
+.site-avatar img {
+  border-radius: 50% !important;
+}
