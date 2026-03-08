@@ -248,17 +248,17 @@
     - name: Wanted
       folder: "Wanted"
       files:
-        - name: Bande Mataram
+        - name: Bandhe Mataram
           file: "54P-Bande Mataram.mp3"
         - name: Cyclone
           file: "54P-Cyclone.mp3"
-        - name: Jome
+        - name: Jom
           file: "54P-Jome.mp3"
         - name: Khomlang
           file: "54P-Khomlang.mp3"
         - name: Morgue
           file: "54P-Morgue.mp3"
-        - name: National Hiway 39
+        - name: National Highway 39
           file: "54P-National Hiway 39.mp3"
         - name: Panji
           file: "54P-Panji.mp3"
@@ -281,7 +281,7 @@
           file: "Chatkhredo nangdi ningba kaina.mp3"
         - name: Chinglon Lanna Leihoubi
           file: "Chinglon Lanna Leihoubi.mp3"
-        - name: Inaktagi Lapkhrabido
+        - name: Enaktagi Lapkhrabido
           file: "Inaktagi Lapkhrabido.mp3.mp3"
         - name: Kapliba Punsibu
           file: "Kapliba Punsibu.mp3"
@@ -333,7 +333,7 @@
           file: "4S-Sabitri.mp3"
         - name: Secretary
           file: "4S-Secy.mp3"
-        - name: maroo
+        - name: Maroo
           file: "4S-maroo.mp3"
     - name: Maaga Nangga
       folder: "Maaga Nangga"
@@ -342,13 +342,13 @@
           file: "3S-Channabi.mp3"
         - name: Chinggi Leirang
           file: "3S-Ching-gee Leirang.mp3"
-        - name: Hada Leirang
+        - name: Haada Leirang
           file: "3S-Hada Leirang.mp3"
         - name: Kundo Pareng
           file: "3S-Kundo Pareng.mp3"
         - name: Lambigi Chidaida
           file: "3S-Lambigee Chidaida.mp3"
-        - name: Maga Nangga
+        - name: Maaga Nangga
           file: "3S-Maa-ga Nng -gaa.mp3"
         - name: Thambal
           file: "3S-Thambal.mp3"
@@ -386,7 +386,7 @@
           file: "55S-Asha.mp3"
         - name: Eibu Nungshi
           file: "55S-Eibu Nungshi.mp3"
-        - name: Engalei
+        - name: Engellei
           file: "55S-Engalei.mp3"
         - name: Keinya dan
           file: "55S-Keinya-dan.mp3"
@@ -517,7 +517,7 @@
       files:
         - name: Sou Sou
           file: "1V0-Sou Sou.mp3"
-        - name: bulb
+        - name: Bulb
           file: "1VO-100 bulb.mp3"
         - name: Baby
           file: "1VO-Baby.mp3"
@@ -565,7 +565,7 @@
       files:
         - name: Bidyarani
           file: "1V0-3Bidyarani.mp3"
-        - name: URIT
+        - name: Urit
           file: "1V0-3OORIT.mp3"
         - name: Room
           file: "1VO-3704 Room.mp3"
