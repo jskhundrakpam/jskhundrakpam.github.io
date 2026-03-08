@@ -77,7 +77,7 @@ A comprehensive collection of Class X HSLC Physics exam questions from 2010 to 2
 <ol>
   <li>State Ohm's law and from it, define the resistance of a conductor. A current 'I' amp is allowed to pass through a resistor of resistance 'R' ohms for 't' seconds. Calculate the amount of heat generated in the resistor in Joules. [2012]</li>
   <li>Define resistance of wire. Write the expression for equivalent resistances of two resistors, R₁ and R₂ when they are connected in parallel and in series. In which case do you get an equivalent resistance less than the given resistance? Write the unit of resistivity. [2016]</li>
-  <li>Obtain an expression for the equivalent resistance of three resistors with resistances R₁, R₂ and R₃ connected in parallel. Find the equivalent resistance between A and B for the given electrical network shown below. [2025]<br><br><strong>OR</strong><br><br>Obtain the expression for the electrical resistivity of a conductor. Calculate the resistance of 1 km long copper wire of radius 1 mm (Resistivity of copper is $1.72\times10^(-8)$ Ω m). [2025]</li>
+  <li>Obtain an expression for the equivalent resistance of three resistors with resistances R₁, R₂ and R₃ connected in parallel. Find the equivalent resistance between A and B for the given electrical network shown below. [2025]<br><br><strong>OR</strong><br><br>Obtain the expression for the electrical resistivity of a conductor. Calculate the resistance of 1 km long copper wire of radius 1 mm (Resistivity of copper is $1.72 \times 10^{-8} \Omega m$). [2025]</li>
 </ol>
 </details>
 
