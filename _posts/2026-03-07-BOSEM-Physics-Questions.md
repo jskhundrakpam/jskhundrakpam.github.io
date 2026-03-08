@@ -47,7 +47,7 @@ A comprehensive collection of Class X HSLC Physics exam questions from 2010 to 2
   <li>A piece of nichrome wire of resistance R is cut into four equal parts. These parts are then combined in parallel. If R' is the equivalent resistance of the parallel combination, find the ratio of R/R′. [2020]</li>
   <li>How does the use of fuse wire protect electric appliances? [2022]</li>
   <li>In the circuit shown below, assume $R_1$ = 3.5 Ω, $R_2$ = 1Ω, and $R_3$ = 1 Ω. The battery has a potential difference of 12 V. Calculate the current through resistor R₃ and the potential difference across this resistor. [2022]</li>
-![Mixed Circuit Problem](/images/2.jpg)
+<img src="/images/2.jpg" alt="Mixed Ckt Problem">
   <li>Two incandescent bulbs of 50W are connected in series to a voltage source. In another circuit two such bulbs are connected in parallel to the same source. Will the bulbs in the two circuits glow with the same brightness? Justify your answer. [2023]</li>
   <li>A resistance of 10 ohm is connected in series to an electric bulb of 20 ohm. The combination is connected to a battery of 6 V. Calculate the p.d. across the bulb. [2024]</li>
 </ol>
