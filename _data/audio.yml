@@ -25,8 +25,20 @@
 - category: Corona
   folder: Corona
   files:
+    - name: 2020
+      file: "2020 (Corona) .mp3"
+    - name: 5 KG
+      file: "5 KG (Corona).mp3"
     - name: Chinese Queen
       file: "CHINESE QUEEN"
+    - name: Cheng
+      file: "Cheng (Corona).mp3"
+    - name: Drugs
+      file: "Drugs (Corona).mp3"
+    - name: SHAA
+      file: "SHAA (Corona).mp3"
+    - name: Welcome
+      file: "Welcome Corona.mp3"
 
 - category: Devotional
   folder: Devotional
