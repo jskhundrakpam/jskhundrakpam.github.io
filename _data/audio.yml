@@ -1,0 +1,781 @@
+- category: Singles
+  folder: Singles
+  files:
+    - name: TAPTA 2or3 VS 5or6
+      file: "1 TAPTA 2or3 VS 5or6 OKK.mp3"
+    - name: 81 Pillar
+      file: "81 Pillar"
+    - name: ACTION TO MUCTION
+      file: "ACTION TO MUCTION.mp3"
+    - name: BLACK COAT
+      file: "BLACK COAT.mp3"
+    - name: BROILER - TAPTA
+      file: "BROILER - TAPTA.mp3"
+    - name: Black Coat (TSL)
+      file: "Black Coat (TSL).mp3"
+    - name: CSO concert
+      file: "CSO concert.mp3"
+    - name: CSO-tapta
+      file: "CSO-tapta.mp3"
+    - name: Kuire Unakhidaba
+      file: "Kuire Unakhidaba.mp3"
+    - name: RiverBank Music Festival
+      file: "RiverBank Music Festival.mp3"
+
+- category: Corona
+  folder: Corona
+  files:
+    - name: Chinese Queen
+      file: "CHINESE QUEEN"
+
+- category: Devotional
+  folder: Devotional
+  subfolders:
+    - name: Bhajan
+      folder: Bhajan
+      files:
+        - name: Hare Krishna
+          file: "Hare Krishna.mp3"
+
+- category: Group Voice
+  folder: Group Voice
+  subfolders:
+    - name: GV 01
+      folder: GV 01
+      files:
+        - name: GV1 - BOBIN
+          file: "GV1-BOBIN.mp3"
+        - name: GV1 - EIKHOI HOURASE
+          file: "GV1-EIKHOI HOURASE.mp3"
+        - name: GV1 - NAOBOY
+          file: "GV1-NAOBOY.mp3"
+        - name: GV1 - PRAVIN
+          file: "GV1-PRAVIN.mp3"
+        - name: GV1 - PREMILA
+          file: "GV1-PREMILA.mp3"
+        - name: GV1 - PREMJIT
+          file: "GV1-PREMJIT.mp3"
+        - name: GV1 - ROSHNI
+          file: "GV1-ROSHNI.mp3"
+        - name: GV1 - SANGITA
+          file: "GV1-SANGITA.mp3"
+        - name: TAPTA
+          file: "GV1-TAPTA.mp3"
+        - name: WITH PREMILA
+          file: "GV1-WITH PREMILA.mp3"
+    - name: GV 02
+      folder: GV 02
+      files:
+        - name: GV2 - WITH CHAN CHAN
+          file: "GV2-WITH CHAN CHAN.mp3"
+        - name: GV2 - WITH MANDAKINI
+          file: "GV2-WITH MANDAKINI.mp3"
+        - name: WITH PREMILA
+          file: "GV2-WITH PREMILA.mp3"
+        - name: WITH ROSIBINA
+          file: "GV2-WITH ROSIBINA.mp3"
+        - name: GV2 - WITH ROSINI
+          file: "GV2-WITH ROSINI.mp3"
+        - name: WITH SANGITA
+          file: "GV2-WITH SANGITA.mp3"
+        - name: WITH SUCHHITRA
+          file: "GV2-WITH SUCHHITRA.mp3"
+        - name: GV2 - WITH YAIPHABI
+          file: "GV2-WITH YAIPHABI.mp3"
+    - name: GV 03
+      folder: GV 03
+      files:
+        - name: GV3 - GROUP (Blockade)
+          file: "GV3-GROUP (Blockade).mp3"
+        - name: GV3 - WITH AJIT (Thengnakhragum touweduni)
+          file: "GV3-WITH AJIT (Thengnakhragum touweduni).mp3"
+        - name: GV3 - WITH BUDHI (Wadana)
+          file: "GV3-WITH BUDHI (Wadana).mp3"
+        - name: GV3 - WITH DEVKUUMAR (Atombi)
+          file: "GV3-WITH DEVKUUMAR (Atombi).mp3"
+        - name: GV3 - WITH LEKHAJIT (Shambal)
+          file: "GV3-WITH LEKHAJIT (Shambal).mp3"
+        - name: GV3 - WITH MASTER
+          file: "GV3-WITH MASTER.mp3"
+        - name: GV3 - WITH SURCHAMBA (Show)
+          file: "GV3-WITH SURCHAMBA (Show).mp3"
+        - name: GV3 - WITH TONDANG (Yo Tai)
+          file: "GV3-WITH TONDANG (Yo Tai).mp3"
+
+- category: Pruck
+  folder: Pruck
+  subfolders:
+    - name: 1958
+      folder: "1958"
+      files:
+        - name: Buldhu
+          file: "23 Buldhu.mp3"
+        - name: Ee
+          file: "23 Ee.mp3"
+        - name: Indian Shining
+          file: "23 Indian Shining.mp3"
+        - name: Laireibak
+          file: "23 Laireibak.mp3"
+        - name: Luching Purel
+          file: "23 Luching Purel.mp3"
+        - name: Meigi Cheeng
+          file: "23 Meigi Cheeng.mp3"
+        - name: Parcentage
+          file: "23 Parcentage.mp3"
+        - name: Pheijei
+          file: "23 Pheijei.mp3"
+        - name: Prime Minister
+          file: "23 Prime Minister.mp3"
+        - name: Tandop
+          file: "23 Tandop.mp3"
+    - name: Abok 01
+      folder: "Abok 01"
+      files:
+        - name: Nokliba
+          file: "-Nokliba.mp3"
+        - name: Abok
+          file: "51P-Abok.mp3"
+        - name: Kabaw Velley
+          file: "51P-Kabaw Velley.mp3"
+        - name: Shidani Waribase
+          file: "51P-Shidani Waribase.mp3"
+        - name: Chingyagi Chiklaba
+          file: "Chingyagi Chiklaba.mp3"
+        - name: Kaongamdraba
+          file: "Kaongamdraba.mp3"
+        - name: Pamde
+          file: "Pamde.mp3"
+        - name: Sidani waribase emana
+          file: "Sidani waribase emana.mp3"
+        - name: Tuminna leirasira
+          file: "Tuminna leirasira.mp3"
+    - name: Abok 02
+      folder: "Abok 02"
+      files:
+        - name: EKAIBAGIFI
+          file: "53P-EKAIBAGIFI.mp3"
+        - name: Ermdm
+          file: "53P-Ermdm.mp3"
+        - name: Hari Nongnang
+          file: "53P-Hari Nongnang.mp3"
+        - name: Ningtamba
+          file: "53P-Ningtamba.mp3"
+        - name: Shakhangdaba Lamkoiba
+          file: "53P-Shakhangdaba Lamkoiba.mp3"
+        - name: Shendong
+          file: "53P-Shendong.mp3"
+        - name: Thabaton
+          file: "53P-Thabaton.mp3"
+        - name: Tubonbi
+          file: "53P-Tubonbi.mp3"
+        - name: Umaibi
+          file: "53P-Umaibi.mp3"
+        - name: Yenbongee Yennao
+          file: "53P-Yenbongee Yennao.mp3"
+    - name: Abok 03
+      folder: "Abok 03"
+      files:
+        - name: 21ST CENTURY
+          file: "21ST CENTURY.mp3"
+        - name: CHINGSANG
+          file: "CHINGSANG.mp3"
+        - name: LAMBI
+          file: "LAMBI.mp3"
+        - name: LEIBAK NINGBA
+          file: "LEIBAK NINGBA.mp3"
+        - name: Meira
+          file: "Meira.mp3"
+        - name: NAOSHUM
+          file: "NAOSHUM.mp3"
+        - name: SHUM
+          file: "SHUM.mp3"
+        - name: SURUNG
+          file: "SURUNG.MP3"
+        - name: UTHAMBAL
+          file: "UTHAMBAL.mp3"
+        - name: Utangbi
+          file: "Utangbi.mp3"
+    - name: Kadomdano
+      folder: "Kadomdano"
+      files:
+        - name: Maru
+          file: "1 Maru.mp3"
+        - name: Hingkho Haibro
+          file: "5P-Hingkho Haibro.mp3"
+        - name: Kadomdano
+          file: "5P-Kadomdano.mp3"
+        - name: Krishna
+          file: "5P-Krishna.mp3"
+        - name: Punshillo
+          file: "5P-Punshillo.mp3"
+        - name: Second hel
+          file: "5P-Second hel.mp3"
+        - name: Twingkle Twingkle
+          file: "5P=Twingkle Twingkle.mp3"
+        - name: Khabar
+          file: "7 Khabar.mp3"
+        - name: Machu taret
+          file: "8 Machu taret.mp3"
+    - name: Oja
+      folder: "Oja"
+      files:
+        - name: HOURO
+          file: "HOURO.mp3"
+        - name: KHONJEL
+          file: "KHONJEL.mp3"
+        - name: Kangleipak
+          file: "Kangleipak.mp3"
+        - name: LEISHEM
+          file: "LEISHEM.mp3"
+        - name: LEPLAROI
+          file: "LEPLAROI.mp3"
+        - name: OJA
+          file: "OJA.mp3"
+        - name: PHIRAL
+          file: "PHIRAL.mp3"
+        - name: Shaktam
+          file: "Shaktam.mp3"
+    - name: Wanted
+      folder: "Wanted"
+      files:
+        - name: Bande Mataram
+          file: "54P-Bande Mataram.mp3"
+        - name: Cyclone
+          file: "54P-Cyclone.mp3"
+        - name: Jome
+          file: "54P-Jome.mp3"
+        - name: Khomlang
+          file: "54P-Khomlang.mp3"
+        - name: Morgue
+          file: "54P-Morgue.mp3"
+        - name: National Hiway 39
+          file: "54P-National Hiway 39.mp3"
+        - name: Panji
+          file: "54P-Panji.mp3"
+        - name: Probleme
+          file: "54P-Probleme.mp3"
+        - name: Restaurent
+          file: "54P-Restaurent.mp3"
+        - name: Wanted
+          file: "54P-Wanted.mp3"
+
+- category: Series
+  folder: Series
+  subfolders:
+    - name: Basanta Kainarabi Gulap
+      folder: "Basanta Kainarabi Gulap"
+      files:
+        - name: Basanta Kainrabi Gulap
+          file: "Basanta Kainrabi Gulap ok.mp3"
+        - name: Chatkhredo nangdi ningba kaina
+          file: "Chatkhredo nangdi ningba kaina.mp3"
+        - name: Chinglon Lanna Leihoubi
+          file: "Chinglon Lanna Leihoubi.mp3"
+        - name: Inaktagi Lapkhrabido
+          file: "Inaktagi Lapkhrabido.mp3.mp3"
+        - name: Kapliba Punsibu
+          file: "Kapliba Punsibu.mp3"
+        - name: Nokpa Heijadraba Punsini
+          file: "Nokpa Heijadraba Punsini.mp3"
+        - name: Siroi Chingi Napomda
+          file: "Siroi Chingi Napomda.mp3"
+    - name: Combing Operation
+      folder: "Combing Operation"
+      files:
+        - name: Combing Operation
+          file: "6S-Combing Operation.mp3"
+        - name: Eche
+          file: "6S-Eche.mp3"
+        - name: Eidi Khangi
+          file: "6S-Eidi Khangi.mp3"
+        - name: Englaba thabal
+          file: "6S-Englaba thabal.mp3"
+        - name: Guitar
+          file: "6S-Guitar.mp3"
+        - name: Kainani Khallaga
+          file: "6S-Kainani Khallaga.mp3"
+        - name: Laklammi Haiba
+          file: "6S-Laklammi Haiba.mp3"
+        - name: Pulsar
+          file: "6S-Pulsar.mp3"
+        - name: Thongnao marumdagi
+          file: "6S-Thongnao marumdagi.mp3"
+    - name: Khudop
+      folder: "Khudop"
+      files:
+        - name: Amashung
+          file: "4S-Amashung.mp3"
+        - name: Atithini
+          file: "4S-Atithini.mp3"
+        - name: Basanta
+          file: "4S-Basanta.mp3"
+        - name: Hooijao
+          file: "4S-Hooijao.mp3"
+        - name: Khudop
+          file: "4S-Khudop.mp3"
+        - name: Mahoot
+          file: "4S-Mahoot.mp3"
+        - name: Modern Girl
+          file: "4S-Modern Girl.mp3"
+        - name: Pakhang
+          file: "4S-Pakhang.mp3"
+        - name: Sabitri
+          file: "4S-Sabitri.mp3"
+        - name: Secy
+          file: "4S-Secy.mp3"
+        - name: maroo
+          file: "4S-maroo.mp3"
+    - name: Maaga Nangga
+      folder: "Maaga Nangga"
+      files:
+        - name: Channabi
+          file: "3S-Channabi.mp3"
+        - name: Ching-gee Leirang
+          file: "3S-Ching-gee Leirang.mp3"
+        - name: Hada Leirang
+          file: "3S-Hada Leirang.mp3"
+        - name: Kundo Pareng
+          file: "3S-Kundo Pareng.mp3"
+        - name: Lambigee Chidaida
+          file: "3S-Lambigee Chidaida.mp3"
+        - name: Maa-ga Nng-gaa
+          file: "3S-Maa-ga Nng -gaa.mp3"
+        - name: Thambal
+          file: "3S-Thambal.mp3"
+        - name: Wanglaba Thangjing
+          file: "3S-Wanglaba Thangjing.mp3"
+        - name: Zero Bulb
+          file: "3S-Zero Bulb.mp3"
+    - name: Shambru
+      folder: "Shambru"
+      files:
+        - name: Tamlaba Ching-ya
+          file: "2 Tamlaba Ching-ya.mp3"
+        - name: Chakka Bandh
+          file: "2S-Chakka Bandh.mp3"
+        - name: Chenkhi Toina
+          file: "2S-Chenkhi Toina.mp3"
+        - name: Karamba Mishumba
+          file: "2S-Karamba Mishumba.mp3"
+        - name: Natheikhrba Echel
+          file: "2S-Natheikhrba Echel.mp3"
+        - name: Noklamba Punshido
+          file: "2S-Noklamba Punshido.mp3"
+        - name: Shambru
+          file: "2S-Shambru.mp3"
+        - name: Thengnaba
+          file: "2S-Thengnaba.mp3"
+        - name: Wareda Cheinase
+          file: "2S-Wareda Cheinase.mp3"
+        - name: Peerangni Kainabei
+          file: "7 Peerangni Kainabei.mp3"
+    - name: Yum
+      folder: "Yum"
+      files:
+        - name: Asha
+          file: "55S-Asha.mp3"
+        - name: Eibu Nungshi
+          file: "55S-Eibu Nungshi.mp3"
+        - name: Engalei
+          file: "55S-Engalei.mp3"
+        - name: Keinya-dan
+          file: "55S-Keinya-dan.mp3"
+        - name: Leisha Leishna
+          file: "55S-Leisha Leishna.mp3"
+        - name: Lemjbi
+          file: "55S-Lemjbi.mp3"
+        - name: Meichak
+          file: "55S-Meichak.mp3"
+        - name: Miramda Leiringei
+          file: "55S-Miramda Leiringei.mp3"
+        - name: Paokhum
+          file: "55S-Paokhum.mp3"
+
+- category: Special Attraction
+  folder: Special Attraction
+  subfolders:
+    - name: 7 Yrs Devastation
+      folder: "7 yrs devastation"
+      files:
+        - name: 1826
+          file: "1819-1826.mp3"
+        - name: Chahi 7 Khuntakpa
+          file: "Chahi 7 Khuntakpa.mp3"
+        - name: Eikhoigi Mee
+          file: "Eikhoigi Mee.mp3"
+    - name: Eche Sharmila
+      folder: "Eche Sharmila"
+      files:
+        - name: LEIPAKLEI OH SHARMILA
+          file: "LEIPAKLEI OH SHARMILA.mp3"
+        - name: Sharmila Gwangju V-02
+          file: "Sharmila Gwangju V-02.mp3"
+        - name: Sharmila (Mihat Mipun)
+          file: "Sharmila(Mihat Mipun).mp3"
+        - name: Sharmila
+          file: "Sharmila.mp3"
+    - name: Ezzat Dabee
+      folder: "Ezzat Dabee"
+      files:
+        - name: EZZAT DABEE
+          file: "EZZAT DABEE MP3.mp3"
+        - name: Hangkok
+          file: "Hangkok.mp3"
+        - name: Korean Style
+          file: "Korean Style.mp3"
+        - name: Press Conference
+          file: "Press Conference.mp3"
+        - name: Restaurant Drive
+          file: "Restaurant Drive.mp3"
+    - name: Keishal
+      folder: "Keishal"
+      files:
+        - name: KEISHAL - TAPTA
+          file: "KEISHAL - TAPTA.mp3"
+        - name: KEISHAL APRIL
+          file: "KEISHAL APRIL.mp3"
+        - name: KEISHAL SAD - TAPTA
+          file: "KEISHAL SAD - TAPTA.mp3"
+    - name: Mee Manukhang
+      folder: "Mee Manukhang"
+      files:
+        - name: Epam khangbi meiwaire
+          file: "Epam khangbi meiwaire.mp3"
+        - name: Mee manukhang
+          file: "Mee manukhang.mp3"
+    - name: Mobile 01
+      folder: "Mobile 01"
+      files:
+        - name: Greater Nagaland
+          file: "1 Greater Nagaland.mp3"
+        - name: Bluetooth
+          file: "10 Bluetooth.mp3"
+        - name: Amada
+          file: "2 Amada.mp3"
+        - name: Miss Call
+          file: "3 Miss Call.mp3"
+        - name: Wrong Number
+          file: "4 Wrong Number.mp3"
+        - name: Number (Mobile)
+          file: "5 Number (Mobile).mp3"
+        - name: Recharge Card
+          file: "6 Recharge Card.mp3"
+        - name: Message
+          file: "7 Message.mp3"
+        - name: Line Busy
+          file: "8 Line Busy.mp3"
+        - name: Memory (Mobile)
+          file: "9 Memory (Mobile).mp3"
+    - name: Mobile 02
+      folder: "Mobile 02"
+      files:
+        - name: 1.3G Mobile
+          file: "1.3G Mobile.mp3"
+        - name: 10.SMS Service
+          file: "10.SMS Service.mp3"
+        - name: 2.Received Call
+          file: "2.Received Call.mp3"
+        - name: 3.Contact Number
+          file: "3.Contact Number.mp3"
+        - name: 4.Night Pack
+          file: "4.Night Pack.mp3"
+        - name: 5.Down Load
+          file: "5.Down Load.mp3"
+        - name: 6.Wall Paper
+          file: "6.Wall Paper.mp3"
+        - name: 7.Inbox
+          file: "7.Inbox.mp3"
+        - name: 8.Sim Card
+          file: "8.Sim Card.mp3"
+        - name: 9.Dailled Call
+          file: "9.Dailled Call.mp3"
+    - name: Tangbo
+      folder: "Tangbo"
+      files:
+        - name: MIKHL - tapta
+          file: "MIKHL - tapta.mp3"
+        - name: TANGBO - tapta
+          file: "TANGBO - tapta.mp3"
+        - name: YEK SALAI - tapta
+          file: "YEK SALAI - tapta.mp3"
+
+- category: Volumes
+  folder: Volumes
+  subfolders:
+    - name: Volume 01
+      folder: "Volume 01"
+      files:
+        - name: Sou Sou
+          file: "1V0-Sou Sou.mp3"
+        - name: bulb
+          file: "1VO-100 bulb.mp3"
+        - name: Baby
+          file: "1VO-Baby.mp3"
+        - name: Bom-Bom
+          file: "1VO-Bom-Bom.mp3"
+        - name: Dear Bina
+          file: "1VO-Dear Bina.mp3"
+        - name: Hairamdana
+          file: "1VO-Hairamdana.mp3"
+        - name: Last Warning
+          file: "1VO-Last Warning.mp3"
+        - name: Round kick
+          file: "1VO-Round kick.mp3"
+        - name: Rupashree
+          file: "1VO-Rupashree.mp3"
+        - name: Yamaha
+          file: "1VO-Yamaha.mp3"
+        - name: Power of attraction
+          file: "Power of attraction.mp3"
+    - name: Volume 02
+      folder: "Volume 02"
+      files:
+        - name: 31st Dec
+          file: "1VO-231st Dec..mp3"
+        - name: Bad Boy
+          file: "1VO-2Bad Boy.mp3"
+        - name: Black Honda
+          file: "1VO-2Black Honda.mp3"
+        - name: Black Law
+          file: "1VO-2Black Law.mp3"
+        - name: Gate Bar
+          file: "1VO-2Gate Bar.mp3"
+        - name: Ghayal
+          file: "1VO-2Ghayal.mp3"
+        - name: Koithoktna
+          file: "1VO-2Koithoktna.mp3"
+        - name: Oh! Than 10
+          file: "1VO-2Oh! Than 10.mp3"
+        - name: Sunday
+          file: "1VO-2Sunday.mp3"
+        - name: Indira
+          file: "1VO2Indira.mp3"
+    - name: Volume 03
+      folder: "Volume 03"
+      files:
+        - name: Bidyarani
+          file: "1V0-3Bidyarani.mp3"
+        - name: OORIT
+          file: "1V0-3OORIT.mp3"
+        - name: Room
+          file: "1VO-3704 Room.mp3"
+        - name: Bandh
+          file: "1VO-3Bandh.mp3"
+        - name: Bus Conductor
+          file: "1VO-3Bus Conductor.mp3"
+        - name: Etei Kou
+          file: "1VO-3Etei Kou.mp3"
+        - name: I Love U Sisy
+          file: "1VO-3I Love U Sisy.mp3"
+        - name: Nupee
+          file: "1VO-3Nupee.mp3"
+    - name: Volume 04
+      folder: "Volume 04"
+      files:
+        - name: Banita
+          file: "1VO-4Banita.mp3"
+        - name: Doctor
+          file: "1VO-4Doctor.mp3"
+        - name: Elai Lai
+          file: "1VO-4Elai Lai.mp3"
+        - name: Ema Amatagee Machani
+          file: "1VO-4Ema Amatagee Machani.mp3"
+        - name: Photo
+          file: "1VO-4Photo.mp3"
+        - name: Red Bottle
+          file: "1VO-4Red Bottle.mp3"
+        - name: Tamocha
+          file: "1VO-4Tamocha.mp3"
+        - name: Thawaigee Thawai
+          file: "1VO-4Thawaigee Thawai.mp3"
+    - name: Volume 05
+      folder: "Volume 05"
+      files:
+        - name: Election
+          file: "Election (tapta).mp3"
+        - name: Wakai
+          file: "Track 10 (Wakai).mp3"
+        - name: Ajanabi
+          file: "Track 2 (Ajanabi).mp3"
+        - name: Dot Dot
+          file: "Track 3 (Dot_Dot).mp3"
+        - name: Khasland
+          file: "Track 4 (Khasland).mp3"
+        - name: Stick
+          file: "Track 5 (Stick).mp3"
+        - name: Melory
+          file: "Track 6 (Melory).mp3"
+        - name: Sou 2
+          file: "Track 7 (Sou_2).mp3"
+        - name: Bombula
+          file: "Track 8 (Bombula).mp3"
+        - name: Sha Shani She
+          file: "Track 9 (Sha Shani She).mp3"
+    - name: Volume 06
+      folder: "Volume 06"
+      files:
+        - name: Hogaybi
+          file: "1VO-6Hogaybi.mp3"
+        - name: Mahoot
+          file: "1VO-6Mahoot.mp3"
+        - name: Mantri
+          file: "1VO-6Mantri.mp3"
+        - name: Pebet
+          file: "1VO-6Pebet.mp3"
+        - name: Radha
+          file: "1VO-6Radha.mp3"
+        - name: Tamoo
+          file: "1VO-6Tamoo.mp3"
+        - name: Yumtakpi
+          file: "1VO-6Yumtakpi.mp3"
+        - name: Budhu
+          file: "Budhu.mp3"
+    - name: Volume 07
+      folder: "Volume 07"
+      files:
+        - name: Akampet
+          file: "1V0-7Akampet.mp3"
+        - name: J.N Hospital
+          file: "1V0-7J.N hospital.mp3"
+        - name: Lai khutshangbee
+          file: "1V0-7Lai khutshangbee.mp3"
+        - name: Hiyangthang bor
+          file: "1VO-7Hiyangthang bor.mp3"
+        - name: Khoimu
+          file: "1VO-7Khoimu.mp3"
+        - name: Kokka Shaihe
+          file: "1VO-7Kokka Shaihe.mp3"
+        - name: Nungshiba
+          file: "1VO-7Nungshiba.mp3"
+        - name: Punshise Wai
+          file: "1VO-7Punshise Wai.mp3"
+        - name: We Bilief
+          file: "1VO-7We Bilief.mp3"
+        - name: We want peace
+          file: "1VO-7We want peace.mp3"
+    - name: Volume 08
+      folder: "Volume 08"
+      files:
+        - name: Commando
+          file: "1V0-8Commando.mp3"
+        - name: EeEi
+          file: "1VO-8EeEi.mp3"
+        - name: Ei Vote Lepkhinee
+          file: "1VO-8Ei Vote Lepkhinee.mp3"
+        - name: Exam Hall
+          file: "1VO-8Exam Hall.mp3"
+        - name: Humfu
+          file: "1VO-8Humfu.mp3"
+        - name: Kongol
+          file: "1VO-8Kongol.mp3"
+        - name: Nangee Loohongba
+          file: "1VO-8Nangee Loohongba.mp3"
+        - name: Nathibong
+          file: "1VO-8Nathibong.mp3"
+        - name: Nongthang
+          file: "1VO-8Nongthang.mp3"
+    - name: Volume 09
+      folder: "Volume 09"
+      files:
+        - name: Bidai
+          file: "1VO-9Bidai.mp3"
+        - name: Chhuingam
+          file: "1VO-9Chhuingam.mp3"
+        - name: Garee
+          file: "1VO-9Garee.mp3"
+        - name: Kothe
+          file: "1VO-9Kothe.mp3"
+        - name: Loktak Project
+          file: "1VO-9Loktak Project.mp3"
+        - name: Naharol
+          file: "1VO-9Naharol.mp3"
+        - name: Shantibala
+          file: "1VO-9Shantibala.mp3"
+        - name: Subha-Bibaha
+          file: "1VO-9Subha-Bibaha.mp3"
+        - name: Tamnalai
+          file: "1VO-9Tamnalai.mp3"
+        - name: Huklamdringei Kundo
+          file: "78 1VO-9Huklamdringei Kundo.mp3"
+    - name: Volume 10
+      folder: "Volume 10"
+      files:
+        - name: Amadusu
+          file: "1VO-10Amadusu.mp3"
+        - name: Baby Elizabeth
+          file: "1VO-10Baby Elizabeth.mp3"
+        - name: CHITHI
+          file: "1VO-10CHITHI.mp3"
+        - name: Dasha
+          file: "1VO-10Dasha.mp3"
+        - name: "Fi!"
+          file: "1VO-10Fi!.mp3"
+        - name: HANNA-HANNA
+          file: "1VO-10HANNA-HANNA.mp3"
+        - name: Hameibon Yonbi
+          file: "1VO-10Hameibon Yonbi.mp3"
+        - name: "Hi!"
+          file: "1VO-10Hi!.mp3"
+        - name: Nongmei
+          file: "1VO-10Nongmei.mp3"
+        - name: SE ECHLSE
+          file: "1VO-10SE ECHLSE.mp3"
+        - name: Talab
+          file: "1VO-10Talab.mp3"
+    - name: Volume 11
+      folder: "Volume 11"
+      files:
+        - name: Anithokpi
+          file: "Anithokpi.mp3"
+        - name: Bony Bony
+          file: "Bony Bony.mp3"
+        - name: Chamjarabini
+          file: "Chamjarabini.mp3"
+        - name: Chithidadi
+          file: "Chithidadi.mp3"
+        - name: Kichee
+          file: "Kichee.mp3"
+        - name: Phairenthagi
+          file: "Phairenthagi.mp3"
+        - name: Photchani
+          file: "Photchani.mp3"
+        - name: Taone mama
+          file: "Taone mama.mp3"
+        - name: Tingkhang
+          file: "Tingkhang.mp3"
+        - name: Tsunami
+          file: "Tsunami.mp3"
+    - name: Volume 12
+      folder: "Volume 12"
+      files:
+        - name: +ve
+          file: "+ve.mp3"
+        - name: Ashubee
+          file: "Ashubee.mp3"
+        - name: Bandh
+          file: "Bandh.mp3"
+        - name: Deman letter
+          file: "Deman letter.mp3"
+        - name: Laphoi
+          file: "Laphoi.mp3"
+        - name: Noval Prize
+          file: "Noval Prize.mp3"
+        - name: Oja Uiganba
+          file: "Oja Uiganba.mp3"
+        - name: Ransom (Reject)
+          file: "Ransom(Reject).mp3"
+    - name: Volume 13
+      folder: "Volume 13"
+      files:
+        - name: DAAK
+          file: "TAPTA - DAAK - VOL-13 B...mp3"
+        - name: FACE BOOK 3
+          file: "TAPTA - FACE BOOK 3 - VOL-13 B.mp3"
+        - name: FACE BOOK 69
+          file: "TAPTA - FACE BOOK 69 - VOL-13 B.mp3"
+        - name: JOB CARD
+          file: "TAPTA - JOB CARD - VOL-13 B.mp3"
+        - name: NUCLEAR BOMB
+          file: "TAPTA - NUCLEAR BOMB - VOL-13 B.mp3"
+        - name: PORN VIDEOGRAPHY
+          file: "TAPTA - PORN VIDEOGRAPHY - VOL-13 B.mp3"
