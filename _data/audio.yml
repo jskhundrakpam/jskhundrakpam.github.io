@@ -37,7 +37,7 @@
       file: "Drugs (Corona).mp3"
     - name: SHAA
       file: "SHAA (Corona).mp3"
-    - name: Welcome
+    - name: Welcome Corona
       file: "Welcome Corona.mp3"
 
 - category: Devotional
@@ -71,9 +71,9 @@
           file: "GV1-ROSHNI.mp3"
         - name: GV1 - SANGITA
           file: "GV1-SANGITA.mp3"
-        - name: TAPTA
+        - name: GV1 - TAPTA
           file: "GV1-TAPTA.mp3"
-        - name: WITH PREMILA
+        - name: GV1 - WITH PREMILA
           file: "GV1-WITH PREMILA.mp3"
     - name: GV 02
       folder: GV 02
@@ -82,15 +82,15 @@
           file: "GV2-WITH CHAN CHAN.mp3"
         - name: GV2 - WITH MANDAKINI
           file: "GV2-WITH MANDAKINI.mp3"
-        - name: WITH PREMILA
+        - name: GV2 - WITH PREMILA
           file: "GV2-WITH PREMILA.mp3"
-        - name: WITH ROSIBINA
+        - name: GV2 - WITH ROSIBINA
           file: "GV2-WITH ROSIBINA.mp3"
         - name: GV2 - WITH ROSINI
           file: "GV2-WITH ROSINI.mp3"
-        - name: WITH SANGITA
+        - name: GV2 - WITH SANGITA
           file: "GV2-WITH SANGITA.mp3"
-        - name: WITH SUCHHITRA
+        - name: GV2 - WITH SUCHHITRA
           file: "GV2-WITH SUCHHITRA.mp3"
         - name: GV2 - WITH YAIPHABI
           file: "GV2-WITH YAIPHABI.mp3"
