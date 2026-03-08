@@ -37,7 +37,7 @@ A comprehensive collection of Class X HSLC Physics exam questions from 2010 to 2
 <ol>
   <li>An electric bulb is rated 220V - 100W. Find the resistance of the filament. [2010]</li>
   <li>Define potential difference between two points in an electric circuit. In household electric circuits, parallel combination of electrical devices is preferred. Give two arguments in support. [2011]</li>
-  <li>Electrical resistivity of nichrome is $100\times(10) ^(-6)$Ωm. Calculate the resistance of a nichrome wire 110 cm long and 0.5 mm diameter. [2011]</li>
+  <li>Electrical resistivity of nichrome is $100\times(10)^{-6}$Ωm. Calculate the resistance of a nichrome wire 110 cm long and 0.5 mm diameter. [2011]</li>
   <li>State the factors on which the resistance of a conductor depends. [2013]</li>
   <li>What produces an electric current in a circuit? How is it realised? [2014]</li>
   <li>Draw a series circuit diagram using symbols containing the following electrical components: (a) A battery, (b) an electric bulb, (c) an open switch and (d) a rheostat. [2015]</li>
