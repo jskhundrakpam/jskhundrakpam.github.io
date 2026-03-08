@@ -62,6 +62,7 @@ A comprehensive collection of Class X HSLC Physics exam questions from 2010 to 2
   <li>An electric bulb is rated 220V : 100W. The bulb is used at 110V. Find the power so consumed. [2014]</li>
   <li>Obtain the relation of electrical resistivity of a conductor. [2015]</li>
   <li>Find the effective value of resistance between A and B of the given circuit when: (a) Switch S is open, (b) Switch S is closed. [2017]</li>
+  <img src="/images/5.jpg" alt="Equivalent resistance problem">
   <li>Two resistances are in the ratio 1 : 2. If these are connected in parallel, their equivalent resistance becomes 8Ω. Calculate the value of resistance. [2018]</li>
   <li>An electric heater marked 1200 W operates 3 hours/day in a house. What will be the cost of energy to operate it for 5 days at Rs. 2 per unit of energy? [2019]</li>
   <li>A potential difference of 250 V is applied across an electric iron having resistance 500Ω. Calculate: (i) the current through the resistor, (ii) power of the electric iron, (iii) heat energy produced in joules in 30 sec. [2020]</li>
@@ -94,10 +95,12 @@ A comprehensive collection of Class X HSLC Physics exam questions from 2010 to 2
   <li>Why does the bulk of iron filings stick to the ends of a bar magnet and not its centre? [2015]</li>
   <li>What is an electric motor? [2015]</li>
   <li>Magnetic lines of force of two bar magnets are shown as follows. Name the poles of the magnet facing each other. [2018]</li>
+  <img src="/images/1.jpg" alt="Finding pole">
   <li>What is the role of brushes in an electric motor? [2018]</li>
   <li>What is the directive property of a magnet? [2020]</li>
   <li>How can a solenoid be converted into an electromagnet? [2020]</li>
   <li>A wire carrying current is shown in the figure. What is the direction of magnetic field at point P? [2023]</li>
+  <img src="/images/4.jpg" alt="RH Thumb Rule Problem">
   <li>Magnetic field inside a solenoid is same at all points. Why? [2023]</li>
   <li>The magnetic field lines inside a current carrying solenoid are equidistant parallel lines. What does it indicate? [2024]</li>
 </ol>
