@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hi, I am Johnson, an educator. I have been teaching physics for class ix and x for 8 years in KM Blooming Higher Secondary School. 
+I completed my B.Sc (H) Physics from Ramjas College in North-campus of Delhi University. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jskhundrakpam@gmail.com](mailto:jonhatesjohn@gmail.com)
