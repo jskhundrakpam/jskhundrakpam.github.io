@@ -37,16 +37,16 @@ A comprehensive collection of Class X HSLC Physics exam questions from 2010 to 2
 <ol>
   <li>An electric bulb is rated 220V - 100W. Find the resistance of the filament. [2010]</li>
   <li>Define potential difference between two points in an electric circuit. In household electric circuits, parallel combination of electrical devices is preferred. Give two arguments in support. [2011]</li>
-  <li>Electrical resistivity of nichrome is 100×10⁻⁶ Ωm. Calculate the resistance of a nichrome wire 110 cm long and 0.5 mm diameter. [2011]</li>
+  <li>Electrical resistivity of nichrome is $100\times10^(-6)$Ωm. Calculate the resistance of a nichrome wire 110 cm long and 0.5 mm diameter. [2011]</li>
   <li>State the factors on which the resistance of a conductor depends. [2013]</li>
   <li>What produces an electric current in a circuit? How is it realised? [2014]</li>
   <li>Draw a series circuit diagram using symbols containing the following electrical components: (a) A battery, (b) an electric bulb, (c) an open switch and (d) a rheostat. [2015]</li>
   <li>A 1.0 m long wire has 1 mm diameter and resistance of 7Ω. Calculate the resistivity of the material. [2017]</li>
   <li>Connected wires used in electric heater are thicker than those used in electric bulb. Why? [2018]</li>
   <li>A wire of 7Ω/m is turned in the form of a circle of diameter 2m. Find the resistance across the ends of the diameter. [2019]</li>
-  <li>A piece of nichrome wire of resistance R is cut into four equal parts. These parts are then combined in parallel. If R′ is the equivalent resistance of the parallel combination, find the ratio of R/R′. [2020]</li>
+  <li>A piece of nichrome wire of resistance R is cut into four equal parts. These parts are then combined in parallel. If R' is the equivalent resistance of the parallel combination, find the ratio of R/R′. [2020]</li>
   <li>How does the use of fuse wire protect electric appliances? [2022]</li>
-  <li>In the circuit shown below, assume R₁ = 3.5 Ω, R₂ = 1Ω, and R₃ = 1 Ω. The battery has a potential difference of 12 V. Calculate the current through resistor R₃ and the potential difference across this resistor. [2022]</li>
+  <li>In the circuit shown below, assume $R_1$ = 3.5 Ω, $R_2$ = 1Ω, and $R_3$ = 1 Ω. The battery has a potential difference of 12 V. Calculate the current through resistor R₃ and the potential difference across this resistor. [2022]</li>
   <li>Two incandescent bulbs of 50W are connected in series to a voltage source. In another circuit two such bulbs are connected in parallel to the same source. Will the bulbs in the two circuits glow with the same brightness? Justify your answer. [2023]</li>
   <li>A resistance of 10 ohm is connected in series to an electric bulb of 20 ohm. The combination is connected to a battery of 6 V. Calculate the p.d. across the bulb. [2024]</li>
 </ol>
@@ -75,7 +75,7 @@ A comprehensive collection of Class X HSLC Physics exam questions from 2010 to 2
 <ol>
   <li>State Ohm's law and from it, define the resistance of a conductor. A current 'I' amp is allowed to pass through a resistor of resistance 'R' ohms for 't' seconds. Calculate the amount of heat generated in the resistor in Joules. [2012]</li>
   <li>Define resistance of wire. Write the expression for equivalent resistances of two resistors, R₁ and R₂ when they are connected in parallel and in series. In which case do you get an equivalent resistance less than the given resistance? Write the unit of resistivity. [2016]</li>
-  <li>Obtain an expression for the equivalent resistance of three resistors with resistances R₁, R₂ and R₃ connected in parallel. Find the equivalent resistance between A and B for the given electrical network shown below. [2025]<br><br><strong>OR</strong><br><br>Obtain the expression for the electrical resistivity of a conductor. Calculate the resistance of 1 km long copper wire of radius 1 mm (Resistivity of copper is 1.72 × 10⁻⁸ Ω m). [2025]</li>
+  <li>Obtain an expression for the equivalent resistance of three resistors with resistances R₁, R₂ and R₃ connected in parallel. Find the equivalent resistance between A and B for the given electrical network shown below. [2025]<br><br><strong>OR</strong><br><br>Obtain the expression for the electrical resistivity of a conductor. Calculate the resistance of 1 km long copper wire of radius 1 mm (Resistivity of copper is $1.72\times10^(-8)$ Ω m). [2025]</li>
 </ol>
 </details>
 
