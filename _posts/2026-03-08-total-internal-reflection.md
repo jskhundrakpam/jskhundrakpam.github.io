@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Understanding Total Internal Reflection of Light"
-date: 2024-01-15
+date: 2026-03-09
 categories: physics optics
 tags: [light, refraction, total-internal-reflection, science]
 ---
