@@ -18,7 +18,7 @@ So why call it "Total Internal Reflection"?
 
 Well, even during normal refraction, a small amount of light gets reflected back internally. But when the angle of incidence exceeds the critical angle, there's no refraction at all. Every bit of that light gets reflected back inside. All of it. That's why it's "total" - complete reflection happening within the same medium.
 
-![Diagram showing total internal reflection at critical angle and beyond](/images/tir.jpg)
+![Diagram showing total internal reflection at critical angle and beyond](/images/TIR.jpg)
 
 ### Where this actually shows up
 
