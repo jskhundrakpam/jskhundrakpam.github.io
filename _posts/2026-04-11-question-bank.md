@@ -5,6 +5,7 @@ categories: [physics, exam-prep, class-x]
 tags: [hslc, physics, electricity, magnetism, light, energy]
 description: "Comprehensive HSLC Class X Physics exam questions 2010-2026 by lesson and marks."
 layout: post
+math: true
 ---
 
 A comprehensive collection of Class X HSLC Physics exam questions from 2010 to 2026...
