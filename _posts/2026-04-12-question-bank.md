@@ -46,7 +46,7 @@ A comprehensive collection of Class X HSLC Physics exam questions from 2010 to 2
   <li>A piece of nichrome wire of resistance R is cut into four equal parts. These parts are then combined in parallel. If R' is the equivalent resistance of the parallel combination, find the ratio of R/R'. [2020]</li>
   <li>How does the use of fuse wire protect electric appliances? [2022]</li>
   <li>In the circuit shown below, assume $R_1$ = 3.5 Ω, $R_2$ = 1 Ω, and $R_3$ = 1 Ω. The battery has a potential difference of 12 V. Calculate the current through resistor R₃ and the potential difference across this resistor. [2022]</li>
-  <li><img src="/images/2.jpg" alt="Mixed Circuit Problem"></li>
+  <li><img src="/assets/img/2.jpg" alt="Mixed Circuit Problem"></li>
   <li>Two incandescent bulbs of 50W are connected in series to a voltage source. In another circuit two such bulbs are connected in parallel to the same source. Will the bulbs in the two circuits glow with the same brightness? Justify your answer. [2023]</li>
   <li>A resistance of 10 ohm is connected in series to an electric bulb of 20 ohm. The combination is connected to a battery of 6 V. Calculate the p.d. across the bulb. [2024]</li>
 </ol>
@@ -61,7 +61,7 @@ A comprehensive collection of Class X HSLC Physics exam questions from 2010 to 2
   <li>An electric bulb is rated 220V : 100W. The bulb is used at 110V. Find the power so consumed. [2014]</li>
   <li>Obtain the relation of electrical resistivity of a conductor. [2015]</li>
   <li>Find the effective value of resistance between A and B of the given circuit when: (a) Switch S is open, (b) Switch S is closed. [2017]</li>
-  <li><img src="/images/5.jpg" alt="Equivalent resistance problem"></li>
+  <li><img src="/assets/img/5.jpg" alt="Equivalent resistance problem"></li>
   <li>Two resistances are in the ratio 1 : 2. If these are connected in parallel, their equivalent resistance becomes 8 Ω. Calculate the value of resistance. [2018]</li>
   <li>An electric heater marked 1200 W operates 3 hours/day in a house. What will be the cost of energy to operate it for 5 days at Rs. 2 per unit of energy? [2019]</li>
   <li>A potential difference of 250 V is applied across an electric iron having resistance 500 Ω. Calculate: (i) the current through the resistor, (ii) power of the electric iron, (iii) heat energy produced in joules in 30 sec. [2020]</li>
@@ -94,12 +94,12 @@ A comprehensive collection of Class X HSLC Physics exam questions from 2010 to 2
   <li>Why does the bulk of iron filings stick to the ends of a bar magnet and not its centre? [2015]</li>
   <li>What is an electric motor? [2015]</li>
   <li>Magnetic lines of force of two bar magnets are shown as follows. Name the poles of the magnet facing each other. [2018]</li>
-  <li><img src="/images/1.jpg" alt="Finding pole"></li>
+  <li><img src="/assets/img/1.jpg" alt="Finding pole"></li>
   <li>What is the role of brushes in an electric motor? [2018]</li>
   <li>What is the directive property of a magnet? [2020]</li>
   <li>How can a solenoid be converted into an electromagnet? [2020]</li>
   <li>A wire carrying current is shown in the figure. What is the direction of magnetic field at point P? [2023]</li>
-  <li><img src="/images/4.jpg" alt="Right Hand Thumb Rule Problem"></li>
+  <li><img src="/assets/img/4.jpg" alt="Right Hand Thumb Rule Problem"></li>
   <li>Magnetic field inside a solenoid is same at all points. Why? [2023]</li>
   <li>The magnetic field lines inside a current carrying solenoid are equidistant parallel lines. What does it indicate? [2024]</li>
 </ol>
