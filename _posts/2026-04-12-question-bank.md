@@ -4,7 +4,6 @@ date: 2026-04-12 10:15:00 +0530
 categories: [physics, exam-prep, class-x]
 tags: [hslc, physics, electricity, magnetism, light, energy]
 description: "Comprehensive HSLC Class X Physics exam questions 2010-2026 by topic and marks."
-pin: true
 layout: post
 ---
 
